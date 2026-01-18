@@ -4,4 +4,4 @@
 
 <h2>EKRAN GÖRÜNTÜSÜ</h2>
 
-![](ekran.gif)
+<img src="ekran.gif" >
