@@ -1,7 +1,9 @@
-<h1>NETFLİX CLON </h1>
- 
- <p>@isvec kralı hocam tarafından derste yapılan sonra kendi yaptığım projedir </p>
+<h1>netflixclon </h1>
+
+<p>@isveckrali hocam tarafından derste yaoılan sonra kendi yaptığım projedir
 
 <h2>EKRAN GÖRÜNTÜSÜ</h2>
 
 ![](ekran.gif)
+
+
